@@ -1,0 +1,12 @@
+/Users/denis.the.dev/Documents/Documents/Projects/c-asp-net/Netcode-Hub/Shopy-eCommerce/ShopyEcommerceSharedLibrarysln/eCommerce.Shared.Library/bin/Debug/net9.0/eCommerce.Shared.Library.deps.json
+/Users/denis.the.dev/Documents/Documents/Projects/c-asp-net/Netcode-Hub/Shopy-eCommerce/ShopyEcommerceSharedLibrarysln/eCommerce.Shared.Library/bin/Debug/net9.0/eCommerce.Shared.Library.dll
+/Users/denis.the.dev/Documents/Documents/Projects/c-asp-net/Netcode-Hub/Shopy-eCommerce/ShopyEcommerceSharedLibrarysln/eCommerce.Shared.Library/bin/Debug/net9.0/eCommerce.Shared.Library.pdb
+/Users/denis.the.dev/Documents/Documents/Projects/c-asp-net/Netcode-Hub/Shopy-eCommerce/ShopyEcommerceSharedLibrarysln/eCommerce.Shared.Library/obj/Debug/net9.0/eCommerce.Shared.Library.csproj.AssemblyReference.cache
+/Users/denis.the.dev/Documents/Documents/Projects/c-asp-net/Netcode-Hub/Shopy-eCommerce/ShopyEcommerceSharedLibrarysln/eCommerce.Shared.Library/obj/Debug/net9.0/eCommerce.Shared.Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denis.the.dev/Documents/Documents/Projects/c-asp-net/Netcode-Hub/Shopy-eCommerce/ShopyEcommerceSharedLibrarysln/eCommerce.Shared.Library/obj/Debug/net9.0/eCommerce.Shared.Library.AssemblyInfoInputs.cache
+/Users/denis.the.dev/Documents/Documents/Projects/c-asp-net/Netcode-Hub/Shopy-eCommerce/ShopyEcommerceSharedLibrarysln/eCommerce.Shared.Library/obj/Debug/net9.0/eCommerce.Shared.Library.AssemblyInfo.cs
+/Users/denis.the.dev/Documents/Documents/Projects/c-asp-net/Netcode-Hub/Shopy-eCommerce/ShopyEcommerceSharedLibrarysln/eCommerce.Shared.Library/obj/Debug/net9.0/eCommerce.Shared.Library.csproj.CoreCompileInputs.cache
+/Users/denis.the.dev/Documents/Documents/Projects/c-asp-net/Netcode-Hub/Shopy-eCommerce/ShopyEcommerceSharedLibrarysln/eCommerce.Shared.Library/obj/Debug/net9.0/eCommerce.Shared.Library.dll
+/Users/denis.the.dev/Documents/Documents/Projects/c-asp-net/Netcode-Hub/Shopy-eCommerce/ShopyEcommerceSharedLibrarysln/eCommerce.Shared.Library/obj/Debug/net9.0/refint/eCommerce.Shared.Library.dll
+/Users/denis.the.dev/Documents/Documents/Projects/c-asp-net/Netcode-Hub/Shopy-eCommerce/ShopyEcommerceSharedLibrarysln/eCommerce.Shared.Library/obj/Debug/net9.0/eCommerce.Shared.Library.pdb
+/Users/denis.the.dev/Documents/Documents/Projects/c-asp-net/Netcode-Hub/Shopy-eCommerce/ShopyEcommerceSharedLibrarysln/eCommerce.Shared.Library/obj/Debug/net9.0/ref/eCommerce.Shared.Library.dll
